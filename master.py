@@ -3,3 +3,6 @@ def do_stepX():
 
 def do_stepY():
 	print("I'm in step Y")
+
+def do_stepZ():
+	print("I'm in step Z")
